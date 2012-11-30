@@ -1,0 +1,28 @@
+.navigation {
+	margin-left:50%;
+	margin-top: 30px;
+}
+
+.small {
+	font-size: 9px;
+	margin-top: 5px;
+}
+
+.row .spacer{
+	margin-top: 50px;
+}
+
+.four .columns .issue {
+	min-height: 1000px;
+} 
+
+.quote {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 2em;
+	text-align: center;
+}
+
+blockquote {
+	border-left:0;
+	margin-top: 30px;
+}
