@@ -31,3 +31,33 @@ blockquote {
 	color: gray;
 	font-size: 11px;
 }
+
+.swo-button {
+	background: #303030;
+	font-size: 17px;
+	padding: 15px 30px 16px;
+	color: #fff;
+	border: none;
+}
+
+.swo-button:hover {
+	background: #606060;
+}
+
+.small-swo-button {
+	background: #303030;
+	font-size: 15px;
+	padding: 10px 20px 13px;
+	color: #fff;
+	border: none;
+}
+
+.small-swo-button:hover {
+	background: #606060;
+	color: #fff;
+}
+
+.note {
+	padding-top:20px;
+}
+
