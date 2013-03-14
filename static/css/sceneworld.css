@@ -79,3 +79,28 @@ footer h5{
 	line-height: 27px;
 }
 
+.logo {
+	float:left;
+	margin-left:15%; 
+	margin-top:15px; 
+	margin-right:8%;
+	width:12%;
+}
+
+.footer-text {
+	float: left; 
+	margin-top: 110px
+}
+
+@media (max-width: 768px){
+	.logo {
+		display: none;
+	}
+	.container {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	.footer-text {
+		margin-left: 3%;
+	}
+}
